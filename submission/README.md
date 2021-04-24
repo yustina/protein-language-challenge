@@ -1,6 +1,6 @@
-# Add-Your-Team-Name-Here
+# BioMiner
 
-Our team is from ... and we think proteins are cool 🙌
+Our team is from Indonesia and we think proteins are cool 🙌
 
 ### Project Description
 We are working on the `protein-language` challenge.
